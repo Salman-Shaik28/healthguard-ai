@@ -107,10 +107,6 @@ Top predictive symptoms include:
 - **Medical Education**: Training and reference tool
 - **Health Apps**: Integration with wellness platforms
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### Development Setup
 1. Fork the repository
 2. Create a feature branch
