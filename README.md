@@ -23,24 +23,6 @@
   - K-Nearest Neighbors
   - Decision Tree Classifier
 
-## 📁 Project Structure
-```
-healthguard-ai/
-├── data/
-│   ├── Training.csv
-│   └── Testing.csv
-├── models/
-│   └── trained_models.pkl
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── prediction.py
-├── notebooks/
-│   └── analysis.ipynb
-├── requirements.txt
-└── README.md
-```
-
 ## 🚀 Installation & Setup
 
 ### Prerequisites
