@@ -76,7 +76,7 @@ demo = gr.Interface(
         lines=10,
         show_copy_button=True
     ),
-    title="🏥 MediScan AI - Disease Prediction",
+    title="🏥 HealthGuard AI - Disease Prediction",
     description="Select your symptoms and get AI-powered disease predictions with confidence scores.",
     examples=example_symptoms,
     theme="soft"
